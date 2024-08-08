@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yangzixuan Jiao / Homepage"
+title                    : "Yangzixuan Jiao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yangzixuan Jiao"
 description              : &description "a matser student at University of Electronic Science and Technology of China (UESTC)"
-url                      : https://alansgithubhhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alansgithubhhh.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alansgithubhhh/alansgithubhhh.github.io"
 
