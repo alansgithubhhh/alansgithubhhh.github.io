@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a matser student at University of Electronic Science and Technology of China (UESTC) underthe advisory of Prof. [Kai Zheng](https://zheng-kai.com/). My research interests include data mining, especially on recommender systems.
+I'm a matser student at University of Electronic Science and Technology of China (UESTC) under the advisory of Prof. [Kai Zheng](https://zheng-kai.com/). My research interests include data mining, especially on recommender systems.
 
 - **Educations**
   - _2018.09-2022.06_,Soochow University,Bachelor
